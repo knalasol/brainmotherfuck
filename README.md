@@ -50,7 +50,7 @@ For definitions, use
 
 So your function definiton will look something like this
 
-`(expletive:++[>++++[^++++v-]<-]>^....)`
+`(expletive:++[>++++[^+++++v-]<-]>^....)`
 
 and the matching function call is this
 
