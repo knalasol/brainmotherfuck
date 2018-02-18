@@ -1,16 +1,5 @@
 (ns brainmf)
 
-(def emptystate {:code ""
-                 :reader 0
-                 :position [0 0]
-                 :field {}
-                 :env {}
-                 :whilestack []
-                 :func? false
-                 :func-buffer ""
-                 :input '()
-                 :output ""})
-
 (defn brainmother 
   ([codestring] 
     (brainmother codestring ""))
